@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Markdown Preview",
+		"Package Control",
+		"Phpcs",
+		"PlainTasks",
+		"SyncedSideBar"
+	]
+}

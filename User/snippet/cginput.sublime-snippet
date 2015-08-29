@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<div class="control-group span8">
+    <label class="control-label">${1:标签名称}</label>
+    <div class="controls">
+      <input type="text" name="${2:字段名称}"  class="control-text">
+    </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cginput</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+     <!-- <scope>source.php</scope>  -->
+</snippet>
